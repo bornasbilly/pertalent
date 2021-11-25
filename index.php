@@ -187,12 +187,12 @@
                         </div>
                     </div>
                     <!-- End Video Grid -->
-
                 </div>
             </div>
 
             <div id="contentPelajar" style="display: none;" class="video-grid-wrapper fade">
                 <div class="row">
+                    <!-- Video Grid -->
                     <div class="col-6">
                         <div class="video-thumb-grid" style="background-image: url(assets/img/vid-thumb-2.jpg);">
                             <div class="video-thumb-overlay">
@@ -213,11 +213,13 @@
                         <div class="vote-modal-content">
                             <h1 class="">Vote For<br>Fitria Syarifa?</h1>
                             <img class="mt-3 mb-3 hvr-zoom" src="assets/img/vid-thumb-2.jpg" alt="Morfim">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                            <a class="vote-btn vote-btn-confirm">Vote <span class="vote-icon"><i
-                                        class="far fa-heart"></i></span></a>
+                            <p><i class="fas fa-info-circle"></i> Anda akan menggunakan <span class="highlight">1 poin</span> my pertamina untuk vote ini</p>
+                            <a class="vote-btn vote-btn-confirm">Vote <span class="vote-icon"><i class="far fa-heart"></i></span></a>
                         </div>
                     </div>
+                    <!-- End Video Grid -->
+
+                    <!-- Video Grid -->
                     <div class="col-6">
                         <div class="video-thumb-grid" style="background-image: url(assets/img/vid-thumb-1.jpg);">
                             <div class="video-thumb-overlay">
@@ -238,11 +240,12 @@
                         <div class="vote-modal-content">
                             <h1 class="">Vote For<br>Morfim?</h1>
                             <img class="mt-3 mb-3 hvr-zoom" src="assets/img/vid-thumb-1.jpg" alt="Morfim">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                            <a class="vote-btn vote-btn-confirm">Vote <span class="vote-icon"><i
-                                        class="far fa-heart"></i></span></a>
+                            <p><i class="fas fa-info-circle"></i> Anda akan menggunakan <span class="highlight">1 poin</span> my pertamina untuk vote ini</p>
+                            <a class="vote-btn vote-btn-confirm">Vote <span class="vote-icon"><i class="far fa-heart"></i></span></a>
                         </div>
                     </div>
+                    <!-- End Video Grid -->
+                    <!-- Video Grid -->
                     <div class="col-6">
                         <div class="video-thumb-grid" style="background-image: url(assets/img/vid-thumb-2.jpg);">
                             <div class="video-thumb-overlay">
@@ -263,11 +266,13 @@
                         <div class="vote-modal-content">
                             <h1 class="">Vote For<br>Fitria Syarifa?</h1>
                             <img class="mt-3 mb-3 hvr-zoom" src="assets/img/vid-thumb-2.jpg" alt="Morfim">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                            <a class="vote-btn vote-btn-confirm">Vote <span class="vote-icon"><i
-                                        class="far fa-heart"></i></span></a>
+                            <p><i class="fas fa-info-circle"></i> Anda akan menggunakan <span class="highlight">1 poin</span> my pertamina untuk vote ini</p>
+                            <a class="vote-btn vote-btn-confirm">Vote <span class="vote-icon"><i class="far fa-heart"></i></span></a>
                         </div>
                     </div>
+                    <!-- End Video Grid -->
+
+                    <!-- Video Grid -->
                     <div class="col-6">
                         <div class="video-thumb-grid" style="background-image: url(assets/img/vid-thumb-1.jpg);">
                             <div class="video-thumb-overlay">
@@ -288,11 +293,12 @@
                         <div class="vote-modal-content">
                             <h1 class="">Vote For<br>Morfim?</h1>
                             <img class="mt-3 mb-3 hvr-zoom" src="assets/img/vid-thumb-1.jpg" alt="Morfim">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                            <a class="vote-btn vote-btn-confirm">Vote <span class="vote-icon"><i
-                                        class="far fa-heart"></i></span></a>
+                            <p><i class="fas fa-info-circle"></i> Anda akan menggunakan <span class="highlight">1 poin</span> my pertamina untuk vote ini</p>
+                            <a class="vote-btn vote-btn-confirm">Vote <span class="vote-icon"><i class="far fa-heart"></i></span></a>
                         </div>
                     </div>
+                    <!-- End Video Grid -->
+                    <!-- Video Grid -->
                     <div class="col-6">
                         <div class="video-thumb-grid" style="background-image: url(assets/img/vid-thumb-2.jpg);">
                             <div class="video-thumb-overlay">
@@ -313,11 +319,13 @@
                         <div class="vote-modal-content">
                             <h1 class="">Vote For<br>Fitria Syarifa?</h1>
                             <img class="mt-3 mb-3 hvr-zoom" src="assets/img/vid-thumb-2.jpg" alt="Morfim">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                            <a class="vote-btn vote-btn-confirm">Vote <span class="vote-icon"><i
-                                        class="far fa-heart"></i></span></a>
+                            <p><i class="fas fa-info-circle"></i> Anda akan menggunakan <span class="highlight">1 poin</span> my pertamina untuk vote ini</p>
+                            <a class="vote-btn vote-btn-confirm">Vote <span class="vote-icon"><i class="far fa-heart"></i></span></a>
                         </div>
                     </div>
+                    <!-- End Video Grid -->
+
+                    <!-- Video Grid -->
                     <div class="col-6">
                         <div class="video-thumb-grid" style="background-image: url(assets/img/vid-thumb-1.jpg);">
                             <div class="video-thumb-overlay">
@@ -338,11 +346,11 @@
                         <div class="vote-modal-content">
                             <h1 class="">Vote For<br>Morfim?</h1>
                             <img class="mt-3 mb-3 hvr-zoom" src="assets/img/vid-thumb-1.jpg" alt="Morfim">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                            <a class="vote-btn vote-btn-confirm">Vote <span class="vote-icon"><i
-                                        class="far fa-heart"></i></span></a>
+                            <p><i class="fas fa-info-circle"></i> Anda akan menggunakan <span class="highlight">1 poin</span> my pertamina untuk vote ini</p>
+                            <a class="vote-btn vote-btn-confirm">Vote <span class="vote-icon"><i class="far fa-heart"></i></span></a>
                         </div>
                     </div>
+                    <!-- End Video Grid -->
                 </div>
             </div>
             <script>
