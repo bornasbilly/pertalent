@@ -16,11 +16,11 @@
                     <li><img src="<?= $site_url; ?>assets/img/ads-logo/era-club.png" alt="Era Club"></li>
                     <li><img src="<?= $site_url; ?>assets/img/ads-logo/grab.png" alt="Grab"></li>
                     <li><img src="<?= $site_url; ?>assets/img/ads-logo/blibli.png" alt="Bli Bli"></li>
+                    <li><img src="<?= $site_url; ?>assets/img/ads-logo/blue-bird.png" alt="Blue Bird"></li>
                 </ul>
             </div>
             <div class="ads-logo mt-1">
                 <ul>
-                    <li><img src="<?= $site_url; ?>assets/img/ads-logo/blue-bird.png" alt="Blue Bird"></li>
                     <li><img src="<?= $site_url; ?>assets/img/ads-logo/kebun-raya.png" alt="Kebun Raya Bogor"></li>
                     <li><img class="link-aja" src="<?= $site_url; ?>assets/img/ads-logo/link-aja.png" alt="Link Aja"></li>
                 </ul>
