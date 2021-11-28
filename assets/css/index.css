@@ -14,6 +14,10 @@
   --b-radius-xxl: 20px;
 }
 
+body {
+  background: no-repeat center top / cover fixed;
+}
+
 body.overflow {
   overflow: hidden;
 }
@@ -499,6 +503,24 @@ input {
   font-size: 14px;
   font-weight: 600;
   cursor: pointer;
+}
+
+.ads-logo ul {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: var(--light);
+  border-radius: var(--b-radius-m);
+  align-items: center;
+  padding: 8px;
+}
+
+.ads-logo ul li img {
+  width: 47px;
+  height: auto;
+}
+
+.ads-logo ul li:last-child img {
+  width: 22px;
 }
 
 .fade {

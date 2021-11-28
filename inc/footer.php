@@ -1,4 +1,4 @@
-        <div class="footer bg-gradient">
+        <div class="footer">
             <p>pertalent by katiga.tv © <?= date('Y')?></p>
         </div>
         <div id="thxPopup" class="thanks-modal">

@@ -25,7 +25,7 @@ $site_url = 'http://localhost/pertalent/';
     <script src="assets/js/smoothscroll.min.js"></script>
     <script src="assets/js/validation.js"></script>
 </head>
-<body>
+<body style="background-image: url(assets/img/kv-bg.jpg);">
     <div class="main-wrapper">
         <!-- Login Popup -->
         <!-- <div class="login-wrapper">
