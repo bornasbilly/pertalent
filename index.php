@@ -18,14 +18,10 @@
                     <li><img src="<?= $site_url; ?>assets/img/ads-logo/link-aja.png" alt="Link Aja"></li>
                 </ul>
             </div>
-
-            <!-- <div class="banner mt-2">
-                <img class="hvr-zoom" src="assets/img/banner.jpg" alt="Banner">
-            </div> -->
             <div class="top-video-links mt-2 mb-2">
                 <div class="row">
                     <div class="col-6">
-                        <span class="rank-label"> Top 50</span>
+                        <!-- <span class="rank-label"> Top 50</span> -->
                     </div>
                     <div class="col-6">
                         <a class="pr-1 txt-light" href="<?= $site_url; ?>page-umum.php">See All</a>

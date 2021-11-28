@@ -6,7 +6,7 @@
                         <h1>Pertalent</h1>
                     </div>
                     <div class="col-6">
-                        <span class="rank-label"> Top 50</span>
+                        <!-- <span class="rank-label"> Top 50</span> -->
                     </div>
                 </div>
             </div>
