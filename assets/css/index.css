@@ -507,20 +507,21 @@ input {
 
 .ads-logo ul {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   background-color: var(--light);
   border-radius: var(--b-radius-m);
   align-items: center;
   padding: 8px;
+  min-height: 58px;
 }
 
 .ads-logo ul li img {
-  width: 47px;
+  width: 70px;
   height: auto;
 }
 
-.ads-logo ul li:last-child img {
-  width: 22px;
+.link-aja {
+  width: 40px !important;
 }
 
 .fade {

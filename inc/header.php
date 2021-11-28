@@ -90,9 +90,9 @@ $site_url = 'http://localhost/pertalent/';
                             </li>
                             <li class="active">
                                 <a href="<?= $site_url; ?>"> Pertalent </a>
-                                <ul class="sub-menu">
+                                <!-- <ul class="sub-menu">
                                     <li><a class="sub-menu" href="<?= $site_url; ?>page-umum.php">Pertalent Top 50</a></li>
-                                </ul>
+                                </ul> -->
                             </li>
                             <li>
                                 <a href="#"> Library </a>
