@@ -512,16 +512,16 @@ input {
   border-radius: var(--b-radius-m);
   align-items: center;
   padding: 8px;
-  min-height: 58px;
+  min-height: 53px;
 }
 
 .ads-logo ul li img {
-  width: 70px;
+  width: 57px;
   height: auto;
 }
 
 .link-aja {
-  width: 40px !important;
+  width: 35px !important;
 }
 
 .fade {
