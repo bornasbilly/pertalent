@@ -501,7 +501,7 @@ input {
   border-radius: var(--b-radius-m);
   align-items: center;
   padding: 8px;
-  min-height: 53px;
+  min-height: 60px;
 }
 
 .ads-logo ul li img {
@@ -519,6 +519,10 @@ input {
 
 .sub-logo {
   width: 40%;
+}
+
+.ads-logo:nth-child(3) ul {
+  min-height: 43px;
 }
 
 .fade {
