@@ -258,17 +258,6 @@ input {
   font-weight: 600;
 }
 
-.rank-label {
-  background-color: var(--red);
-  color: var(--light);
-  padding: 10px 15px;
-  border-radius: var(--b-radius-xxl);
-  min-width: 110px;
-  display: inline-block;
-  text-align: center;
-  font-weight: 600;
-}
-
 .video-grid-wrapper .col-6 {
   position: relative;
   padding: 5px;
@@ -521,7 +510,15 @@ input {
 }
 
 .link-aja {
-  width: 35px !important;
+  width: 25px !important;
+}
+
+.kebun-raya {
+  width: 50px !important;
+}
+
+.sub-logo {
+  width: 40%;
 }
 
 .fade {

@@ -2,11 +2,8 @@
         <div class="section">   
             <div class="page-heading">
                 <div class="row">
-                    <div class="col-6">
-                        <h1>Pertalent</h1>
-                    </div>
-                    <div class="col-6">
-                        <!-- <span class="rank-label"> Top 50</span> -->
+                    <div class="col-12 pr-0 pl-0">
+                        <img class="sub-logo" src="<?= $site_url; ?>assets/img/pertalent-logo.png" alt="Pertalent Logo">
                     </div>
                 </div>
             </div>

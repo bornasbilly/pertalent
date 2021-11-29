@@ -2,8 +2,9 @@
         <div class="section">   
             <div class="page-heading">
                 <div class="row">
-                    <div class="col-12">
-                        <h1 class="txt-light">Pertalent</h1>
+                    <div class="col-12 pr-0 pl-0">
+                        <!-- <h1 class="txt-light">Pertalent</h1> -->
+                        <img class="sub-logo" src="<?= $site_url; ?>assets/img/pertalent-logo.png" alt="Pertalent Logo">
                     </div>
                 </div>
             </div>
@@ -18,7 +19,7 @@
             </div>
             <div class="ads-logo mt-1">
                 <ul>
-                    <li><img src="<?= $site_url; ?>assets/img/ads-logo/kebun-raya.png" alt="Kebun Raya Bogor"></li>
+                    <li><img class="kebun-raya" src="<?= $site_url; ?>assets/img/ads-logo/kebun-raya.png" alt="Kebun Raya Bogor"></li>
                     <li><img class="link-aja" src="<?= $site_url; ?>assets/img/ads-logo/link-aja.png" alt="Link Aja"></li>
                 </ul>
             </div>
