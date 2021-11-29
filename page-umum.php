@@ -11,15 +11,15 @@
 
             <div class="ads-logo mt-1">
                 <ul>
-                    <li><img src="<?= $site_url; ?>assets/img/ads-logo/era-club.png" alt="Era Club"></li>
-                    <li><img src="<?= $site_url; ?>assets/img/ads-logo/grab.png" alt="Grab"></li>
-                    <li><img src="<?= $site_url; ?>assets/img/ads-logo/blibli.png" alt="Bli Bli"></li>
-                    <li><img src="<?= $site_url; ?>assets/img/ads-logo/blue-bird.png" alt="Blue Bird"></li>
+                    <li><img class="era-club" src="<?= $site_url; ?>assets/img/ads-logo/era-club.png" alt="Era Club"></li>
+                    <li><img class="grab" src="<?= $site_url; ?>assets/img/ads-logo/grab.png" alt="Grab"></li>
+                    <li><img class="bli-bli" src="<?= $site_url; ?>assets/img/ads-logo/blibli.png" alt="Bli Bli"></li>
+                    <li><img class="blue-bird" src="<?= $site_url; ?>assets/img/ads-logo/blue-bird.png" alt="Blue Bird"></li>
                 </ul>
             </div>
             <div class="ads-logo mt-1">
                 <ul>
-                    <li><img src="<?= $site_url; ?>assets/img/ads-logo/kebun-raya.png" alt="Kebun Raya Bogor"></li>
+                    <li><img class="kebun-raya" src="<?= $site_url; ?>assets/img/ads-logo/kebun-raya.png" alt="Kebun Raya Bogor"></li>
                     <li><img class="link-aja" src="<?= $site_url; ?>assets/img/ads-logo/link-aja.png" alt="Link Aja"></li>
                 </ul>
             </div>

@@ -505,8 +505,23 @@ input {
 }
 
 .ads-logo ul li img {
-  width: 57px;
   height: auto;
+}
+
+.era-club {
+  width: 62px;
+}
+
+.bli-bli {
+  width: 55px;
+}
+
+.grab {
+  width: 55px;
+}
+
+.blue-bird {
+  width: 62px;
 }
 
 .link-aja {
